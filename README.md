@@ -11,7 +11,7 @@ pyautogui.PAUSE = 0.3
 time.sleep(5)
 
 #Pegar posição do mouse
-print(pyautogui.position())
+#print(pyautogui.position())
 
 #Pegar o tamanho da tela/resolução
 #print(pyautogui.size())
